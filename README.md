@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @elbriga aka Gabriel
-- 👀 I’m interested in developing new solutions
-- 💞️ I’m looking to collaborate on innovative projects
+
